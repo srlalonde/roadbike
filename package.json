@@ -1,0 +1,15 @@
+{
+  "name": "roadbike",
+  "version": "1.0.0",
+  "description": "roadbike for sale",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Stephane Lalonde",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "stripe": "^8.154.0"
+  }
+}
